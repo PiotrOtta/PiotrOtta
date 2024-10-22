@@ -4,7 +4,7 @@
 
 <h1 align="center" id="hello" style="margin-top: 2rem">Hello there! Welcome to my GitHub</h1>
 
-I'm a 26 years old **<span style="color: #db2954;">Full Stack Web Developer</span>** for 2 years and a **<span style="color: #db2954;">Game Developer</span>** in my free time.
+I'm a 26 years old **<span style="color: #db2954;">Full Stack Web Developer</span>** with 2 years of experience and a **<span style="color: #db2954;">Game Developer</span>** in my free time.
 
 I specialize in **<span style="color: #db2954;">Vue 3</span>** and **<span style="color: #db2954;">Node.js</span>**. I'm also proficient in **<span style="color: #db2954;">Nuxt.js</span>**, **<span style="color: #db2954;">NestJS</span>**, and the **<span style="color: #db2954;">Quasar Framework</span>**. There's more to my skill set, but let's keep it simple in here. Everything is in my CV.
 
