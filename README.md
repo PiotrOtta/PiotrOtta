@@ -7,7 +7,8 @@
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=one_dark_pro&layout=compact&card_width=300&hide_border=true" />
 </div>
 
-<br />
+<br /><br />
+
 <p align="center" id="about_me">
   <img src="about_me.png" alt="About me" title="About me" height="60" />
 </p>
@@ -65,7 +66,8 @@ And here are technologies I used quite recently:
   <img alt="jQuery" height=18 src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white" />
 </div>
 
-<br />
+<br /><br />
+
 <p align="center" id="showcase">
   <img src="showcase.png" alt="Showcase of some of my work" title="Showcase of some of my work" height="100" /> <br />
   <img src="buffMario.gif" align=center height=80 alt="Source: My repo -> MuscleMario game" title="Source: My repo -> MuscleMario game"/>
@@ -73,11 +75,13 @@ And here are technologies I used quite recently:
   <br />
 </p>
 
+<br />
 <p align="center" id="learing_or_working">
   <img src="what_currently_learning.png" alt="What I'm currently working on or learning" title="What I'm currently working on or learning" height="150" /> <br />
   I'm currently developing a game in <b>Godot Engine</b> and building my personal <b>portfolio page</b> using <b>Three.js</b> and <b>NextJs</b> with the <b>NextUI</b> framework.
 </p>
 
+<br />
 <p align="center" id="contact_me">
   <img src="contact_me.png" alt="Piotr Otta logo" title="Piotr Otta logo" height="60" />
   <br />
