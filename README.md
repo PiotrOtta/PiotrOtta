@@ -86,9 +86,10 @@ And here are technologies I used quite recently:
   <img src="contact_me.png" alt="Piotr Otta logo" title="Piotr Otta logo" height="60" />
   <br />
   You can contact me on<br />
-  <a href="www.linkedin.com/in/piotr-otta" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge"/></a><br />
-  or via email: <a href= "mailto: ottapiotr@gmail.com"> 
-      ottapiotr@gmail.com
+  <a href="https://www.linkedin.com/in/piotr-otta/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=for-the-badge"/></a><br />
+  or via email: <br /> 
+  <a href= "mailto: ottapiotr@gmail.com"> 
+      <img alt="ottapiotr@gmail.com" src="https://img.shields.io/badge/mail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
    </a>
 </p>
 
