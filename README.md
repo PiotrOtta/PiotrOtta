@@ -3,12 +3,8 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=one_dark_pro&layout=compact&card_width=300&hide_border=true" />
-  </a>
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=one_dark_pro&layout=compact&card_width=300&hide_border=true" />
 </div>
 
 <br />
