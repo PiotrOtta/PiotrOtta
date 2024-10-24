@@ -11,7 +11,8 @@
   </a>
 </div>
 
-<p align="center" id="about_me" style="padding-top: 1rem">
+<br />
+<p align="center" id="about_me">
   <img src="about_me.png" alt="About me" title="About me" height="60" />
 </p>
 
