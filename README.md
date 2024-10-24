@@ -7,7 +7,7 @@
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=one_dark_pro&layout=compact&card_width=300&hide_border=true" />
 </div>
 
-<br /><br />
+<br />
 
 <p align="center" id="about_me">
   <img src="about_me.png" alt="About me" title="About me" height="60" />
