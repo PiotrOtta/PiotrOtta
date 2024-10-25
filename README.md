@@ -6,15 +6,15 @@
   <picture>
     <source
       height=140
-      srcset="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
       height=140
-      srcset="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=catppuccin_latte&show_icons=true&hide_border=true&rank_icon=github"
+      srcset="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues&theme=catppuccin_latte&show_icons=true&hide_border=true&rank_icon=github"
       media="(prefers-color-scheme: light)"
     />
-    <img height=140 src="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github" />
+    <img height=140 src="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github" />
   </picture>
 
   <picture>
