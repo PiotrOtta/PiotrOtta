@@ -16,6 +16,8 @@
     />
     <img height=140 src="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github" />
   </picture>
+  <!-- In case you're referencing this readme file, in above urls it is impossible to add commas to hide parameter. It works for normal img and source but not in picture tag.-->
+  <!-- TLDR: &hide=issues,contrib ✖️(don't work) | &hide=issues ✔️ (works) -->
 
   <picture>
     <source
