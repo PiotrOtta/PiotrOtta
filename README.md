@@ -5,27 +5,27 @@
 <div align="center">
   <picture>
     <source
-      height=140 
-      src="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github"
+      height=140
+      srcset="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      height=140 
-      src="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=catppuccin_latte&show_icons=true&hide_border=true&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height=140
+      srcset="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=catppuccin_latte&show_icons=true&hide_border=true&rank_icon=github"
+      media="(prefers-color-scheme: light)"
     />
     <img height=140 src="https://github-readme-stats.vercel.app/api?username=PiotrOtta&hide=issues,contribs&theme=one_dark_pro&show_icons=true&hide_border=true&rank_icon=github" />
   </picture>
   <picture>
     <source
-      height=140 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=one_dark_pro&layout=compact&card_width=300&hide_border=true"
+      height=140
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=one_dark_pro&layout=compact&card_width=300&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      height=140 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&layout=compact&card_width=300&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      height=140
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=catppuccin_latte&layout=compact&card_width=300&hide_border=true"
+      media="(prefers-color-scheme: light)"
     />
     <img height=140 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrOtta&size_weight=0.5&count_weight=0.5&theme=one_dark_pro&layout=compact&card_width=300&hide_border=true" />
   </picture>
