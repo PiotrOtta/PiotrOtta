@@ -1,5 +1,5 @@
 <p align="center" id="hello">
-  <img src="welcome_to_github.png" alt="Welcome to Peter's Otta github" title="Welcome to Peter's Otta github" height="200" />
+  <img src="welcome_to_github.png" alt="Welcome to Piotr's Otta github" title="Welcome to Piotr's Otta github" height="200" />
 </p>
 
 <div align="center">
@@ -124,5 +124,5 @@ And here are technologies I used quite recently:
 
 <p align=center>
   Thanks for passing by! Make sure to check out my repos.
-  <br /><img src="logoSmall.png" alt="Peter logo" title="Peter logo" height="80" />
+  <br /><img src="animated_sticker.gif" alt="Piotr Otta sticker" title="Piotr Otta sticker" height="120" />
 </p>
